@@ -108,7 +108,7 @@ There will be several more tests. Some tests may take a while.
 ## License
 
 Copyright (C) 2005-2013 Sverker Nilsson, S. Nilsson Computer System AB  
-Copyright (C) 2019-2021 YiFei Zhu
+Copyright (C) 2019-2021 YiFei Zhu  
 Copyright (C) 2021-2022 YiFei Zhu, Google LLC
 
 The right is granted to copy, use, modify and redistribute this code
